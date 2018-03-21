@@ -1,3 +1,3 @@
 # react-course
 
-Reach course homeworks
+React course homeworks
